@@ -1,0 +1,1 @@
+{"name":"athma","version":"0.1.0","dependencies":{"core-js":{"version":"3.8.2"},"register-service-worker":{"version":"1.7.2"},"vue":{"version":"2.6.12"},"vue-router":{"version":"3.4.9"},"vuelidate":{"version":"0.7.6"},"vuetify":{"version":"2.4.0"},"vuex":{"version":"3.6.0"}}}
